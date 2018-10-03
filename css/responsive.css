@@ -1,0 +1,40 @@
+/* Small Devices */
+@media only screen and (max-width: 767px) {
+    
+    .navbar-default {
+        
+        background-color: #fff !important;
+        border-color: #e6e6e6;
+    }
+    .about-iphone img {
+        width: 100%;
+    }
+    .purchase-now .col-md-3 {
+        
+        text-align: center;
+        padding-top: 50px;
+    }
+}
+
+/* Small Devices And Tablets */
+@media only screen and (max-width: 768px) {
+    
+    .header-iphone {
+        display: none;
+    }
+    .header-text, .header-btns {
+        text-align: center;
+    }
+}
+
+/* Medius Devices , Desktop */
+@media only screen and (min-width: 992px) {
+    
+    
+}
+
+/* Large Devices, Wide Screen */
+@media only screen and (min-width: 1200px) {
+    
+    
+}
